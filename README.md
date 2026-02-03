@@ -1,5 +1,6 @@
 # IMAGE-TRANSFORMATIONS
-
+## Developed By: SHARON STEFFANI F
+## Register Number: 212223110049
 
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
